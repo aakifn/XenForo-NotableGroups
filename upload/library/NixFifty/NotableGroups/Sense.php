@@ -1,0 +1,3 @@
+<?php
+
+class XFCP_NixFifty_NotableGroups_XenForo_ControllerPublic_Member extends XenForo_ControllerPublic_Member {}
